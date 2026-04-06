@@ -1,0 +1,132 @@
+7
+71
+120
+4
+#never gonna give you up
+8.0, D
+8.25, F
+8.5, J
+8.75, F
+9.0, K
+9.75, K
+10.5, J
+#never gonna let you down
+12.0, D
+12.25, F
+12.5, J
+12.75, F
+13.0, K
+13.75, K
+14.5, J
+15.25, F
+15.5, D
+#never gonna run around
+16.0, D
+16.25, F
+16.5, J
+16.75, F
+17.0, J
+18.0, K
+18.5, J
+19.25, F
+19.5, D
+#and hurt you
+20.5, D
+21.0, J
+22.0, F
+#never gonna make you cry
+24.0, D
+24.25, F
+24.5, J
+24.75, F
+25.0, K
+25.75, K
+26.5, J
+#never gonna say goodbye
+28.0, D
+28.25, F
+28.5, J
+28.75, F
+29.0, K
+30.0, F
+30.5, J
+31.25, F
+31.5, D
+#never gonna tell a lie
+32.0, D
+32.25, F
+32.5, J
+32.75, F
+33.0, J
+34.0, K
+34.5, J
+35.25, F
+35.5, D
+#and desert you
+36.5, D
+37.0, J
+38.0, F
+#REPEAT +32
+40.0, D
+40.25, F
+40.5, J
+40.75, F
+41.0, K
+41.75, K
+42.5, J
+#never gonna let you down
+44.0, D
+44.25, F
+44.5, J
+44.75, F
+45.0, K
+45.75, K
+46.5, J
+47.25, F
+47.5, D
+#never gonna run around
+48.0, D
+48.25, F
+48.5, J
+48.75, F
+49.0, J
+50.0, K
+50.5, J
+51.25, F
+51.5, D
+#and hurt you
+52.5, D
+53.0, J
+54.0, F
+#never gonna make you cry
+56.0, D
+56.25, F
+56.5, J
+56.75, F
+57.0, K
+57.75, K
+58.5, J
+#never gonna say goodbye
+60.0, D
+60.25, F
+60.5, J
+60.75, F
+61.0, K
+62.0, F
+62.5, J
+63.25, F
+63.5, D
+#never gonna tell a lie
+64.0, D
+64.25, F
+64.5, J
+64.75, F
+65.0, J
+66.0, K
+66.5, J
+67.25, F
+67.5, D
+#and desert you
+68.5, D
+69.0, J
+70.0, F
